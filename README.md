@@ -6,4 +6,4 @@ Hello Change
 
 
 # some local change
-A LOCAL CHANGE!
+Changing the local change with feature 2
